@@ -12,7 +12,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/sivapriya87/game_center.git
+git clone https://github.com/sivapriya87/HexSoftwares_Game_of_Tic-Tac-Toe.git
 cd game_center
 Run the Game
 
